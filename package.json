@@ -1,0 +1,52 @@
+{
+  "name": "tiles-gallery",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "@better-auth/mongo-adapter": "^1.6.9",
+    "@heroui/react": "^3.0.3",
+    "@heroui/styles": "^3.0.3",
+    "@react-spring/parallax": "^10.0.3",
+    "@react-spring/web": "^10.0.3",
+    "better-auth": "^1.6.9",
+    "framer-motion": "^12.38.0",
+    "mongodb": "^7.2.0",
+    "next": "16.2.4",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "react-fast-marquee": "^1.6.5",
+    "react-icons": "^5.6.0",
+    "react-loader-spinner": "^8.0.2",
+    "react-toastify": "^11.1.0"
+  },
+  "devDependencies": {
+    "@gravity-ui/icons": "^2.18.0",
+    "@iconify/react": "^6.0.2",
+    "@tailwindcss/postcss": "^4",
+    "babel-plugin-react-compiler": "1.0.0",
+    "daisyui": "^5.5.19",
+    "eslint": "^9",
+    "eslint-config-next": "16.2.4",
+    "tailwindcss": "^4.2.4"
+  },
+  "description": "<!-- #5a00ff button color -->",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zabedfolio/Tiles-Gallery.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Zabedfolio/Tiles-Gallery/issues"
+  },
+  "homepage": "https://github.com/Zabedfolio/Tiles-Gallery#readme"
+}

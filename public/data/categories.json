@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Ceramic", "slug": "ceramic", "count": 4 },
+  { "id": 2, "name": "Marble", "slug": "marble", "count": 3 },
+  { "id": 3, "name": "Terracotta", "slug": "terracotta", "count": 2 },
+  { "id": 4, "name": "Porcelain", "slug": "porcelain", "count": 3 },
+  { "id": 5, "name": "Decorative", "slug": "decorative", "count": 2 },
+  { "id": 6, "name": "Stone", "slug": "stone", "count": 2 },
+  { "id": 7, "name": "Sandstone", "slug": "sandstone", "count": 2 },
+  { "id": 8, "name": "Mosaic", "slug": "mosaic", "count": 1 },
+  { "id": 9, "name": "Luxury", "slug": "luxury", "count": 2 },
+  { "id": 10, "name": "Wood", "slug": "wood", "count": 1 }
+]
